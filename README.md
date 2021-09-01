@@ -1,4 +1,3 @@
-# smhbdbd-
 <h1 align="center">Hi 👋, I'm Semih Cavdar</h1>
 <h3 align="center">A student open to learning software in Turkey</h3>
 
